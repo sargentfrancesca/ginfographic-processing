@@ -1,0 +1,7 @@
+{"recipe": {
+  "ingredients": "http://ginfographic.chez.io/api/v1.0/recipes/1/ingredients/",
+  "name": "Gin Rickey",
+  "length": "3",
+  "flavours": "http://ginfographic.chez.io/api/v1.0/recipes/1/flavours/",
+  "url": "http://www.foodrepublic.com/2012/06/28/gin-rickey-recipe"
+}}
